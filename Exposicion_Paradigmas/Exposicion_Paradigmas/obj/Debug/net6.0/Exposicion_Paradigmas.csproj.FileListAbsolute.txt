@@ -1,0 +1,15 @@
+C:\Users\Usuario\source\repos\Exposicion_Paradigmas\Exposicion_Paradigmas\bin\Debug\net6.0\Exposicion_Paradigmas.exe
+C:\Users\Usuario\source\repos\Exposicion_Paradigmas\Exposicion_Paradigmas\bin\Debug\net6.0\Exposicion_Paradigmas.deps.json
+C:\Users\Usuario\source\repos\Exposicion_Paradigmas\Exposicion_Paradigmas\bin\Debug\net6.0\Exposicion_Paradigmas.runtimeconfig.json
+C:\Users\Usuario\source\repos\Exposicion_Paradigmas\Exposicion_Paradigmas\bin\Debug\net6.0\Exposicion_Paradigmas.dll
+C:\Users\Usuario\source\repos\Exposicion_Paradigmas\Exposicion_Paradigmas\bin\Debug\net6.0\ref\Exposicion_Paradigmas.dll
+C:\Users\Usuario\source\repos\Exposicion_Paradigmas\Exposicion_Paradigmas\bin\Debug\net6.0\Exposicion_Paradigmas.pdb
+C:\Users\Usuario\source\repos\Exposicion_Paradigmas\Exposicion_Paradigmas\obj\Debug\net6.0\Exposicion_Paradigmas.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\Exposicion_Paradigmas\Exposicion_Paradigmas\obj\Debug\net6.0\Exposicion_Paradigmas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\Exposicion_Paradigmas\Exposicion_Paradigmas\obj\Debug\net6.0\Exposicion_Paradigmas.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Exposicion_Paradigmas\Exposicion_Paradigmas\obj\Debug\net6.0\Exposicion_Paradigmas.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Exposicion_Paradigmas\Exposicion_Paradigmas\obj\Debug\net6.0\Exposicion_Paradigmas.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Exposicion_Paradigmas\Exposicion_Paradigmas\obj\Debug\net6.0\Exposicion_Paradigmas.dll
+C:\Users\Usuario\source\repos\Exposicion_Paradigmas\Exposicion_Paradigmas\obj\Debug\net6.0\ref\Exposicion_Paradigmas.dll
+C:\Users\Usuario\source\repos\Exposicion_Paradigmas\Exposicion_Paradigmas\obj\Debug\net6.0\Exposicion_Paradigmas.pdb
+C:\Users\Usuario\source\repos\Exposicion_Paradigmas\Exposicion_Paradigmas\obj\Debug\net6.0\Exposicion_Paradigmas.genruntimeconfig.cache
